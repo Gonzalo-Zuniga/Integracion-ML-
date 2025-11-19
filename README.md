@@ -20,7 +20,7 @@ Este notebook contiene **todo el desarrollo del modelo**, incluyendo:
 - Google Colab  
 - Jupyter Notebook  
 
-⚠ **Importante:**  
+**Importante:**  
 El dataset **no está incluido** debido a contener información sensible.  
 Si se requiere acceso, solicitar vía correo: **xxxxx**.
 
