@@ -4,7 +4,7 @@ Este repositorio contiene los elementos necesarios para comprender la implementa
 
 ---
 
-## ** Archivos del repositorio**
+##  Archivos del repositorio
 
 ### **1. `Sumativa_S6.ipynb` — Programa principal (ML)**
 
@@ -76,7 +76,7 @@ Este flujo cubre **desde la entrada de datos hasta el envío de un correo HTML**
 
 ---
 
-## ** Contacto para dataset**
+##  Contacto para dataset
 
 Debido a la sensibilidad de los datos, el dataset debe solicitarse a:
 
